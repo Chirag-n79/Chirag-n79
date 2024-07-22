@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Data Analysis
 -------------------------------
 
-* 🌍  I'm based in Hassan, Karnataka, India
+* 🌍  I'm from in Hassan, Karnataka, India
 * ✉️  You can contact me at [cn828358@gmail.com](mailto:cn828358@gmail.com)
 * 🧠  I'm learning Python and R
 * 🤝  I'm open to collaborating on Interesting Projects
